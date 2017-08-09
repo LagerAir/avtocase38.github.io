@@ -1,0 +1,67 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avtocase38.github.io" resolutions="1x" timestamp="1502287898741">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="_____.css" crc="4126191891" ref="карта"/>
+    <file name="index.css" crc="140818010" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>карта:index:карта"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>карта:index:карта"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>карта:index:карта"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>карта:index:карта"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>карта:index:карта"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>карта:index:карта"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:карта"/>
+    <file name="webpro.js" crc="4143865194" ref="index:карта"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u7860.php" crc="4202347402" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:карта"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:карта"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:карта"/>
+  </folder>
+  <folder name="images">
+    <file name="наброски-u7213-fr.png" crc="4248317445" ref="index"/>
+    <file name="3.png" crc="3944767490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7802-4.png" crc="297071666" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:карта"/>
+    <file name="u7874.png" crc="4152553761" ref="index"/>
+    <file name="u7874-ferr.png" crc="368394090" ref="index"/>
+    <file name="u7865.png" crc="127408095" ref="index"/>
+    <file name="u7865-ferr.png" crc="4206973346" ref="index"/>
+    <file name="u7862.png" crc="63846912" ref="index"/>
+    <file name="u7862-r.png" crc="505059484" ref="index"/>
+    <file name="u7862-m.png" crc="417328227" ref="index"/>
+    <file name="u7862-fs.png" crc="117733139" ref="index"/>
+    <file name="u7870.png" crc="340574431" ref="index"/>
+    <file name="u7870-ferr.png" crc="3931449224" ref="index"/>
+    <file name="u8006.png" crc="160330640" ref="index"/>
+    <file name="u8006-ferr.png" crc="54758765" ref="index"/>
+    <file name="u7810.png" crc="4204224072" ref="index"/>
+    <file name="u7810-r.png" crc="324548862" ref="index"/>
+    <file name="наброски.jpg" crc="4048374960" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="наброски-u8793-fr.png" crc="4032366872" ref="карта"/>
+    <file name="u9148.png" crc="4053522885" ref="карта"/>
+    <file name="u9148-r.png" crc="4238749530" ref="карта"/>
+    <file name="u8834.png" crc="4204224072" ref="карта"/>
+    <file name="u8834-r.png" crc="324548862" ref="карта"/>
+    <file name="усолье-сибирское_09-08-2017_20-39-57.jpg" crc="3807778059" ref="карта">
+      <caption webpage="карта" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="_____.css" crc="62426684" ref="phone>карта"/>
+    </folder>
+    <file name="index.html" crc="3893322959" seo="true" mt="1502287398151" redirect="false"/>
+    <file name="карта.html" crc="3942432296" seo="true" mt="1502287398318" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4043703033" seo="true" mt="1502287411451" redirect="true"/>
+  <file name="карта.html" crc="450333464" seo="true" mt="1502287414169" redirect="true"/>
+</manifest>
